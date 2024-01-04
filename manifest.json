@@ -1,0 +1,17 @@
+{
+    "name": "BIOMART",
+    "short_name": "BIOMART",
+    "description": "Situs Belanja Online Di Wilayah Sorong",
+    "lang": "id-ID",
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#FE980F",
+    "background_color": "#FE980F",
+    "icons": [
+        {
+            "src": "app/img/logo.png",
+            "sizes": "680x680",
+            "type": "image/png"
+        }
+    ]
+}

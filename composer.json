@@ -1,0 +1,17 @@
+{
+    "name": "puru/galihbayu17",
+    "description": "Situs Belanja Online Di Wilayah Sorong",
+    "type": "project",
+    "license": "GPL",
+    "homepage": "https://firapapua.com",
+    "authors": [
+        {
+            "name": "FIRA PAPUA",
+            "email": "cs@firapapua.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.6",
+        "dompdf/dompdf": "^0.8.3"
+    }
+}
